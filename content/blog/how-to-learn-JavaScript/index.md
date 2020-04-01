@@ -1,7 +1,7 @@
 ---
-title: Hello World
+title: How to learn JavaScript
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "How to learn JavaScript"
 ---
 
 This is my first post on my new fake blog! How exciting!
