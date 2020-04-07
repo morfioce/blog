@@ -3,7 +3,7 @@ module.exports = {
     title: `On software craftsmanship`,
     author: {
       name: `Moncef Bouallagui`,
-      summary: `a muslim, husband, father and software craftsman`,
+      summary: `a Muslim, husband, father and software craftsman`,
     },
     description: `Moncef Bouallagui blog`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
